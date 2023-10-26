@@ -1,7 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0863aa1f-c656-46d9-8705-fe15c806f896" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lld-practice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lld-practice/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lld-practice/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lld-practice/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lld-practice/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base" beforeDir="false" afterPath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base/target/classes/META-INF/maven/com.scaler.oops/Lecture3_Asgn2/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base/target/classes/META-INF/maven/com.scaler.oops/Lecture3_Asgn2/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class-constructors---1--basic-oops--base" beforeDir="false" afterPath="$PROJECT_DIR$/class-constructors---1--basic-oops--base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class-constructors---1--basic-oops--base/target/classes/META-INF/maven/com.scaler.oops/Lecture2_Asgn1/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/class-constructors---1--basic-oops--base/target/classes/META-INF/maven/com.scaler.oops/Lecture2_Asgn1/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create--a-math-class---oops-in-java--constructors-and-static--base" beforeDir="false" afterPath="$PROJECT_DIR$/create--a-math-class---oops-in-java--constructors-and-static--base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create--a-math-class---oops-in-java--constructors-and-static--base/target/classes/META-INF/maven/com.scaler.oops/Lecture1_Asgn1/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/create--a-math-class---oops-in-java--constructors-and-static--base/target/classes/META-INF/maven/com.scaler.oops/Lecture1_Asgn1/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-basic-class--student--base" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-basic-class--student--base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-basic-class--student--base/target/classes/META-INF/maven/com.scaler.oops/Lecture1_Asgn1/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-basic-class--student--base/target/classes/META-INF/maven/com.scaler.oops/Lecture1_Asgn1/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-class-counter--introduction-to-synchronization----mutex-base" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-class-counter--introduction-to-synchronization----mutex-base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-class-counter--introduction-to-synchronization----mutex-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-class-counter--introduction-to-synchronization----mutex-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-class-point--rectangle----oops-in-java--constructors-and-static--base" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-class-point--rectangle----oops-in-java--constructors-and-static--base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-class-point--rectangle----oops-in-java--constructors-and-static--base/target/classes/META-INF/maven/com.scaler.oops/Lecture2_Asgn2/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-class-point--rectangle----oops-in-java--constructors-and-static--base/target/classes/META-INF/maven/com.scaler.oops/Lecture2_Asgn2/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-class-point-and-threedpoint---method-overloading-and-overriding-base" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-class-point-and-threedpoint---method-overloading-and-overriding-base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-class-point-and-threedpoint---method-overloading-and-overriding-base/target/classes/META-INF/maven/com.scaler.oops/Lecture3_Asgn1/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-class-point-and-threedpoint---method-overloading-and-overriding-base/target/classes/META-INF/maven/com.scaler.oops/Lecture3_Asgn1/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-loopable-class-node-base" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-loopable-class-node-base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-loopable-class-node-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-loopable-class-node-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-node-class---oops-in-java--constructors-and-static--base" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-node-class---oops-in-java--constructors-and-static--base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-node-class---oops-in-java--constructors-and-static--base/target/classes/META-INF/maven/com.scaler.oops/Lecture2_Asgn3/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-node-class---oops-in-java--constructors-and-static--base/target/classes/META-INF/maven/com.scaler.oops/Lecture2_Asgn3/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-sortable-list-of-cars-base" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-sortable-list-of-cars-base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-sortable-list-of-cars-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-sortable-list-of-cars-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-student-class--oops-in-java--constructors-and-static--base" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-student-class--oops-in-java--constructors-and-static--base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-a-student-class--oops-in-java--constructors-and-static--base/target/classes/META-INF/maven/com.scaler.oops/Lecture2_Asgn4/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/create-a-student-class--oops-in-java--constructors-and-static--base/target/classes/META-INF/maven/com.scaler.oops/Lecture2_Asgn4/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-bankaccount-class-base" beforeDir="false" afterPath="$PROJECT_DIR$/create-bankaccount-class-base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-bankaccount-class-base/target/classes/META-INF/maven/com.scaler.oops/Lecture1_Asgn4/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/create-bankaccount-class-base/target/classes/META-INF/maven/com.scaler.oops/Lecture1_Asgn4/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-related-classes-1----point-and-rectangle--base" beforeDir="false" afterPath="$PROJECT_DIR$/create-related-classes-1----point-and-rectangle--base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-related-classes-1----point-and-rectangle--base/target/classes/META-INF/maven/com.scaler.oops/Lecture1_Asgn2/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/create-related-classes-1----point-and-rectangle--base/target/classes/META-INF/maven/com.scaler.oops/Lecture1_Asgn2/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-related-classes-2----point-and-circle--base" beforeDir="false" afterPath="$PROJECT_DIR$/create-related-classes-2----point-and-circle--base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create-related-classes-2----point-and-circle--base/target/classes/META-INF/maven/com.scaler.oops/Lecture1_Asgn3/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/create-related-classes-2----point-and-circle--base/target/classes/META-INF/maven/com.scaler.oops/Lecture1_Asgn3/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/oop/code/oop/src/main/java/com/scaler/lld/bird/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/oop/code/oop/src/main/java/com/scaler/lld/bird/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/oop/code/oop/src/main/java/com/scaler/lld/bird/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/oop/code/oop/src/main/java/com/scaler/lld/bird/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/oop/code/oop/src/main/java/com/scaler/lld/bird/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/oop/code/oop/src/main/java/com/scaler/lld/bird/Parrot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/oop/code/oop/src/main/java/com/scaler/lld/bird/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/oop/code/oop/src/main/java/com/scaler/lld/bird/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/oop/code/oop/src/main/java/com/scaler/lld/questions/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/oop/code/oop/src/main/java/com/scaler/lld/questions/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/oop/code/oop/src/main/java/com/scaler/lld/questions/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/oop/code/oop/src/main/java/com/scaler/lld/questions/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance-via-interfaces-base" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance-via-interfaces-base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance-via-interfaces-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance-via-interfaces-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction-to-threads-2-base" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-threads-2-base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction-to-threads-2-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-threads-2-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction-to-threads-3-base" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-threads-3-base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction-to-threads-3-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-threads-3-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threads-with-callables-2-base" beforeDir="false" afterPath="$PROJECT_DIR$/threads-with-callables-2-base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threads-with-callables-2-base/target/CodeForUser-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/threads-with-callables-2-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/threads-with-callables-2-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threads-with-callables-2-base/target/classes/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/threads-with-callables-2-base/target/classes/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threads-with-callables-2-base/target/classes/TreeSizeCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/threads-with-callables-2-base/target/classes/TreeSizeCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threads-with-callables-2-base/target/classes/TreeSizeCalculatorMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/threads-with-callables-2-base/target/classes/TreeSizeCalculatorMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threads-with-callables-2-base/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/threads-with-callables-2-base/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/threads-with-callables-2-base/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/threads-with-callables-base" beforeDir="false" afterPath="$PROJECT_DIR$/threads-with-callables-base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threads-with-callables-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/threads-with-callables-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2XAKrq1hSBGpdVPYJxiLGFjVg3R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="lld-assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="lld-assignments" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0863aa1f-c656-46d9-8705-fe15c806f896" name="Changes" comment="" />
+      <created>1698066647537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698066647537</updated>
+      <workItem from="1698066649054" duration="28000" />
+      <workItem from="1698066683896" duration="1349000" />
+      <workItem from="1698079822468" duration="142000" />
+      <workItem from="1698340240302" duration="347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
