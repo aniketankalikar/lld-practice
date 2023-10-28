@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0863aa1f-c656-46d9-8705-fe15c806f896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/semaphores_javaEEApplication_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base/class-client-display-method----method-overloading-and-overriding-base.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/class-constructors---1--basic-oops--base/class-constructors---1--basic-oops--base.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/create--a-math-class---oops-in-java--constructors-and-static--base/create--a-math-class---oops-in-java--constructors-and-static--base.iml" afterDir="false" />
@@ -28,16 +27,13 @@
       <change afterPath="$PROJECT_DIR$/introduction-to-threads-2-base/introduction-to-threads-2-base.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introduction-to-threads-3-base/introduction-to-threads-3-base.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/introduction-to-threads-base/introduction-to-threads-base.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semaphores/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semaphores/src/main/java/com/machinecoding/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semaphores/src/main/java/com/machinecoding/semaphores/CounterUsingMutex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semaphores/src/main/java/com/machinecoding/semaphores/LoginQueueUsingSemaphores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semaphores/src/test/java/com/machinecoding/semaphores/TestCounterMutex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semaphores/src/test/java/com/machinecoding/semaphores/TestSemaphore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambdas/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambdas/src/main/java/com/machinecoding/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambdas/src/main/java/com/machinecoding/TestLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambdas/src/main/java/com/machinecoding/TestStreams.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/threads-with-callables-2-base/threads-with-callables-2-base.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/threads-with-callables-base/threads-with-callables-base.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base" beforeDir="false" afterPath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base/target/classes/META-INF/maven/com.scaler.oops/Lecture3_Asgn2/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base/target/classes/META-INF/maven/com.scaler.oops/Lecture3_Asgn2/pom.properties" afterDir="false" />
@@ -102,6 +98,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -124,30 +121,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;LombokPluginIS_LOMBOK_JPS_FIX_ENABLED&quot;: &quot;true&quot;,
-    &quot;LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Userdisk/workspace/development/source/lld-workspace/lld-practice/semaphores/src/main/java/com/machinecoding/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "LombokPluginIS_LOMBOK_JPS_FIX_ENABLED": "true",
+    "LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Userdisk/workspace/development/source/lld-workspace/lld-practice/lambdas/src/main/java/com/machinecoding/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="JUnit.TestCounterMutex.testBlocking">
+}]]></component>
+  <component name="RunManager" selected="Application.TestStreams">
+    <configuration name="TestLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.machinecoding.TestLambda" />
+      <module name="lambdas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.machinecoding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.machinecoding.TestStreams" />
+      <module name="lambdas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.machinecoding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestCounterMutex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="semaphores" />
       <extension name="coverage">
@@ -195,38 +218,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSemaphore.availableSlots" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="semaphores" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.machinecoding.semaphores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.machinecoding.semaphores" />
-      <option name="MAIN_CLASS_NAME" value="com.machinecoding.semaphores.TestSemaphore" />
-      <option name="METHOD_NAME" value="availableSlots" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSemaphore.reachLimitWithLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="semaphores" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.machinecoding.semaphores.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.machinecoding.semaphores" />
-      <option name="MAIN_CLASS_NAME" value="com.machinecoding.semaphores.TestSemaphore" />
-      <option name="METHOD_NAME" value="reachLimitWithLogin" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="lld-assignments" />
       <method v="2">
@@ -242,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestStreams" />
+        <item itemvalue="Application.TestLambda" />
         <item itemvalue="JUnit.TestCounterMutex.testBlocking" />
         <item itemvalue="JUnit.TestCounterMutex.givenMutexAndMultipleThreads_ThenDelay_thenCorrectCount" />
         <item itemvalue="JUnit.TestCounterMutex" />
-        <item itemvalue="JUnit.TestSemaphore.availableSlots" />
-        <item itemvalue="JUnit.TestSemaphore.reachLimitWithLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +255,8 @@
       <workItem from="1698340240302" duration="347000" />
       <workItem from="1698340966178" duration="931000" />
       <workItem from="1698341906507" duration="4186000" />
-      <workItem from="1698411395182" duration="1310000" />
+      <workItem from="1698411395182" duration="2891000" />
+      <workItem from="1698492646154" duration="4577000" />
     </task>
     <servers />
   </component>
