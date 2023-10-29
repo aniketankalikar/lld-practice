@@ -1,4 +1,4 @@
-package com.machinecoding;
+package com.machinecoding.lambdastreams;
 
 @FunctionalInterface
 public interface MathOperation {

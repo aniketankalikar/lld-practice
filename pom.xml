@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>semaphores</module>
-        <module>lambdas</module>
+        <module>javaconcurrency</module>
     </modules>
 
     <properties>

@@ -1,4 +1,4 @@
-package com.machinecoding;
+package com.machinecoding.lambdastreams;
 
 import java.util.function.Function;
 
