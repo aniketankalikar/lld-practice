@@ -1,9 +1,9 @@
-package com.machinecoding.concurrency;
+package com.machinecoding.concurrency.threads;
 
-public class MyThread extends Thread{
+public class MyThread1 extends Thread{
 
     Integer i = 0;
-    public  MyThread(Integer i)
+    public MyThread1(Integer i)
     {
         this.i=i;
     }

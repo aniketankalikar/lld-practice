@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0863aa1f-c656-46d9-8705-fe15c806f896" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/concurrency/threads/MyRunnableThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/concurrency/threads/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/concurrency/threads/TestExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaconcurrency/src/test/java/com/machinecoding/concurrency/TestThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base" beforeDir="false" afterPath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base/target/classes/META-INF/maven/com.scaler.oops/Lecture3_Asgn2/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base/target/classes/META-INF/maven/com.scaler.oops/Lecture3_Asgn2/pom.properties" afterDir="false" />
@@ -47,6 +52,9 @@
       <change beforePath="$PROJECT_DIR$/introduction-to-threads-2-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-threads-2-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introduction-to-threads-3-base" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-threads-3-base" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introduction-to-threads-3-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-threads-3-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/concurrency/MyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/concurrency/threads/MyRunnableThread1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/concurrency/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/concurrency/threads/MyThread1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/concurrency/TestThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/concurrency/threads/ThreadMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/threads-with-callables-2-base" beforeDir="false" afterPath="$PROJECT_DIR$/threads-with-callables-2-base" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/threads-with-callables-2-base/target/CodeForUser-1.0-SNAPSHOT.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/threads-with-callables-2-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/threads-with-callables-2-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" afterDir="false" />
@@ -115,17 +123,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.machinecoding.concurrency.threads" />
       <recent name="com.machinecoding.concurrency" />
       <recent name="com.machinecoding.lambdastreams" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FooBar">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.machinecoding.concurrency.tablecreator.Client" />
+  <component name="RunManager" selected="Application.TestExecutorService (2)">
+    <configuration name="TestExecutorService (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.machinecoding.concurrency.threads.TestExecutorService" />
       <module name="javaconcurrency" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.machinecoding.concurrency.tablecreator.*" />
+          <option name="PATTERN" value="com.machinecoding.concurrency.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,25 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FooBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.machinecoding.semaphores.foobaralternatively.FooBar" />
-      <module name="semaphores" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.machinecoding.semaphores.foobaralternatively.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.machinecoding.lambdastreams.TestLambda" />
+    <configuration name="TestExecutorService (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.machinecoding.concurrency.threads.TestExecutorService" />
       <module name="javaconcurrency" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.machinecoding.lambdastreams.*" />
+          <option name="PATTERN" value="com.machinecoding.concurrency.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPrinOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.machinecoding.semaphores.printorder.TestPrinOrder" />
-      <module name="semaphores" />
+    <configuration name="TestExecutorService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.machinecoding.concurrency.threads.TestExecutorService" />
+      <module name="javaconcurrency" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.machinecoding.semaphores.printorder.*" />
+          <option name="PATTERN" value="com.machinecoding.concurrency.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,10 +173,25 @@
       <module name="javaconcurrency" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.machinecoding.lambdastreams.*" />
+          <option name="PATTERN" value="com.machinecoding.concurrency.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThread" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaconcurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.machinecoding.concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.machinecoding.concurrency" />
+      <option name="MAIN_CLASS_NAME" value="com.machinecoding.concurrency.TestThread" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -200,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FooBar" />
-        <item itemvalue="Application.TestPrinOrder" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.TestExecutorService (2)" />
+        <item itemvalue="Application.TestExecutorService" />
+        <item itemvalue="Application.TestExecutorService (1)" />
         <item itemvalue="Application.TestThread" />
-        <item itemvalue="Application.TestLambda" />
+        <item itemvalue="JUnit.TestThread" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +235,7 @@
       <workItem from="1698341906507" duration="4186000" />
       <workItem from="1698411395182" duration="2891000" />
       <workItem from="1698492646154" duration="5018000" />
-      <workItem from="1698511592400" duration="9245000" />
+      <workItem from="1698511592400" duration="12297000" />
     </task>
     <servers />
   </component>

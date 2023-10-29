@@ -1,10 +1,8 @@
-package com.machinecoding.concurrency;
+package com.machinecoding.concurrency.threads;
 
-import java.util.List;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
-public class TestThread {
+public class ThreadMain {
 
     public static void main(String[] args) {
 
@@ -16,7 +14,7 @@ public class TestThread {
 
         IntStream stream = IntStream.of(1,2,3,4,5);
         stream.forEach(val -> {
-            MyRunnable obj = new MyRunnable();
+            MyRunnableThread1 obj = new MyRunnableThread1();
             obj.run();
         });
 
