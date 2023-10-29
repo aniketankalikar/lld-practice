@@ -5,18 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0863aa1f-c656-46d9-8705-fe15c806f896" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/concurrency/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/concurrency/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/concurrency/TestThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/concurrency/tablecreator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/concurrency/tablecreator/TableCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semaphores/src/main/java/com/machinecoding/semaphores/foobaralternatively/BarThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semaphores/src/main/java/com/machinecoding/semaphores/foobaralternatively/FooBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semaphores/src/main/java/com/machinecoding/semaphores/foobaralternatively/FooThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semaphores/src/main/java/com/machinecoding/semaphores/printorder/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/semaphores/src/main/java/com/machinecoding/semaphores/printorder/TestPrinOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base" beforeDir="false" afterPath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base/target/classes/META-INF/maven/com.scaler.oops/Lecture3_Asgn2/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/class-client-display-method----method-overloading-and-overriding-base/target/classes/META-INF/maven/com.scaler.oops/Lecture3_Asgn2/pom.properties" afterDir="false" />
@@ -59,11 +47,6 @@
       <change beforePath="$PROJECT_DIR$/introduction-to-threads-2-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-threads-2-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introduction-to-threads-3-base" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-threads-3-base" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introduction-to-threads-3-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-threads-3-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambdas/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javaconcurrency/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambdas/src/main/java/com/machinecoding/MathOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/lambdastreams/MathOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambdas/src/main/java/com/machinecoding/TestLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/lambdastreams/TestLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lambdas/src/main/java/com/machinecoding/TestStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaconcurrency/src/main/java/com/machinecoding/lambdastreams/TestStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/threads-with-callables-2-base" beforeDir="false" afterPath="$PROJECT_DIR$/threads-with-callables-2-base" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/threads-with-callables-2-base/target/CodeForUser-1.0-SNAPSHOT.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/threads-with-callables-2-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/threads-with-callables-2-base/target/classes/META-INF/maven/org.example/CodeForUser/pom.properties" afterDir="false" />
@@ -241,7 +224,7 @@
       <workItem from="1698341906507" duration="4186000" />
       <workItem from="1698411395182" duration="2891000" />
       <workItem from="1698492646154" duration="5018000" />
-      <workItem from="1698511592400" duration="8487000" />
+      <workItem from="1698511592400" duration="9245000" />
     </task>
     <servers />
   </component>
